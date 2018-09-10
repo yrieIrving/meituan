@@ -7,7 +7,29 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "EggPlant",
     "navigationBarTextStyle": "black"
+  },
+  "tabBar":{
+        "color": "#999",  
+        "selectedColor": "#13227a",  
+        "borderStyle": "black" ,
+        "list": [{ 
+          "selectedIconPath" :"/static/images/iconfont/wxb_home.png",
+          "iconPath":"/static/images/iconfont/wxb_home_press.png",
+          "pagePath": "pages/index/main",  
+          "text": "首页"
+         },{  
+          "selectedIconPath" :"/static/images/iconfont/shop-.png",
+          "iconPath":"/static/images/iconfont/shop+.png",
+          "pagePath": "pages/logs/main",  
+          "text": "购物车"  
+         },{
+          "selectedIconPath" :"/static/images/iconfont/user_fill.png",
+          "iconPath":"/static/images/iconfont/user_fill_press .png",
+          "pagePath": "pages/counter/main",  
+          "text": "个人中心" 
+          }
+        ]  
   }
 }
