@@ -8,7 +8,8 @@ export default {
    config:{
     //在这个地方导入应用组件
     usingComponents: {
-        "i-button": "../static/iview/button/index"
+        "i-button": "../../../static/iview/button/index",
+        'i-card': '../../../static/iview/card/index'
     }
    }
 }
