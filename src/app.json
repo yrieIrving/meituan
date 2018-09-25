@@ -2,7 +2,7 @@
   "pages": [
     "pages/index/main",
     "pages/logs/main",
-    "pages/counter/main"
+    "pages/find/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -27,7 +27,7 @@
          },{
           "selectedIconPath" :"/static/images/iconfont/user_fill.png",
           "iconPath":"/static/images/iconfont/user_fill_press .png",
-          "pagePath": "pages/counter/main",  
+          "pagePath": "pages/find/main",  
           "text": "个人中心" 
           }
         ]  

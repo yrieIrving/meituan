@@ -7,9 +7,9 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"miniprogramRoot": "./dist/",
+	"miniprogramRoot": "dist/",
 	"compileType": "miniprogram",
-	"appid": "y",
+	"appid": "wx3232b846d2576f11",
 	"projectname": "y",
 	"condition": {
 		"search": {
