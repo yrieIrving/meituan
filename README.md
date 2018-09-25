@@ -1,6 +1,6 @@
-# y
+# 美团小程序--前端
 
-> A Mpvue project
+> 防美团小程序项目
 
 ## Build Setup
 
@@ -19,3 +19,4 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 项目中引用了iview 小程序UI库 
